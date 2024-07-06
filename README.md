@@ -23,13 +23,13 @@ Yes, you can
 Open a terminal window and type `java -version` to find out the java version. You should have JDK 11 installed on your system to run these games. If you have JDK 11 installed on your system and still unable to run the games, then seek your course instructor's help to get it work. 
 
 **Q: I have found some broken links and spelling mistakes in the assignment. How can I inform?**<br>
-Please open a [new issue](https://github.com/Ranjith-Suranga/connect-four-game-assignment/issues/new) mentioning the broken link or spelling mistake. Thank you for informing!
+Please open a [new issue](https://github.com/sasmithx/connect-four-game.git) mentioning the broken link or spelling mistake. Thank you for informing!
 
 **Q: I have doubts to clarify regarding the assignment, what should I do?**<br>
 Please contact your course instructor 😉
 
 ### Game
-If you want to find out how the game looks like at the end of each step, check out the [release page](https://github.com/Ranjith-Suranga/connect-four-game-assignment/releases) and follow the instructions there.
+If you want to find out how the game looks like at the end of each step, check out the [release page](https://github.com/sasmithx/connect-four-game.git) and follow the instructions there.
 
 ### Version
 0.0.6
